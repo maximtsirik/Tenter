@@ -6,4 +6,4 @@
 
 Что бы запусть приложение введите число, как параметр приложения в командной строке:
 
-    java -jar -Tenter.jar 'your number'
+    java -jar counter.jar 'your number'
